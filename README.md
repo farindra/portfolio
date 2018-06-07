@@ -4,7 +4,8 @@
   [![N|Solid](http://omnicode.am/pic/services/uikit.png)](https://getuikit.com/)
 
 100% free for you. Simply clone or download and run it on your web server.
- [DEMO SITE](https://farindra.com/index.html?utm=GithubPotfolioTemplate)
+
+ [DEMO SITE](https://farindra.com/index.html?utm=GithubPortfolioTemplate)
 
 License
 ----
